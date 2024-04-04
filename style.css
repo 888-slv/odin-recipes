@@ -20,13 +20,10 @@ li{
     font-size:18px;
     color: lightblue;
 }
-.title{
-    color: black;
-}
 
 #title {
 
-    margin: 0 auto;
+    margin:  auto;
     width:300px;
     padding: 5px 10px;
     box-sizing: border-box;
@@ -77,6 +74,7 @@ a:visited{
 
 }
 p {
+    color:lightblue;
     height: auto;
     width: 300px;
     margin:0 auto;
@@ -85,7 +83,8 @@ p {
     padding:1px;
     box-sizing: border-box;
     background-color:grey;
-    font-color:lightblue;
+
+
 
 
 }
