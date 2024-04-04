@@ -21,10 +21,10 @@ li{
     color: lightblue;
 }
 .title{
-    color: purple;
+    color: black;
 }
 h3 {
-    color: blue;
+    color: lightblue;
 }
 p {
     text-align: left;
@@ -43,9 +43,16 @@ p {
 .list-of-recipes {
     background-color:grey;
     display:block;
+    text-color:lightblue;
     box-sizing: border-box;
     margin:0 auto;
     width:300px;
     padding:20px;
     border:8px solid black;
+}
+a:link {
+    color: lightblue;
+}
+a:visited{
+    color:lightblue;
 }
