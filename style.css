@@ -1,0 +1,51 @@
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+h1,
+ {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li{
+    font-size:18px;
+    color: lightblue;
+}
+.title{
+    color: purple;
+}
+h3 {
+    color: blue;
+}
+p {
+    text-align: left;
+}
+
+#title {
+    box-sizing: border-box;
+    margin: 0 auto;
+    width:300px;
+    padding: 5px 10px;
+    background-color:powderblue;
+    border:16px solid black;
+    text-align:center;
+    
+}
+.list-of-recipes {
+    background-color:grey;
+    display:block;
+    box-sizing: border-box;
+    margin:0 auto;
+    width:300px;
+    padding:20px;
+    border:8px solid black;
+}
