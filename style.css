@@ -23,18 +23,13 @@ li{
 .title{
     color: black;
 }
-h3 {
-    color: lightblue;
-}
-p {
-    text-align: left;
-}
 
 #title {
-    box-sizing: border-box;
+
     margin: 0 auto;
     width:300px;
     padding: 5px 10px;
+    box-sizing: border-box;
     background-color:powderblue;
     border:16px solid black;
     text-align:center;
@@ -49,10 +44,60 @@ p {
     width:300px;
     padding:20px;
     border:8px solid black;
+    box-sizing: border-box;
+
 }
 a:link {
     color: lightblue;
 }
 a:visited{
     color:lightblue;
+}
+
+.recipe-images {
+    height: auto;
+    width: 300px;
+    margin:0 auto;
+    border:8px solid black;
+    display:block;
+    box-sizing: border-box;
+
+
+}
+
+.headings {
+    height: auto;
+    width: 300px;
+    margin:0 auto;
+    border: 8px solid black;
+    text-align:center;
+    padding:1px;
+    background-color:lightblue;
+    box-sizing: border-box;
+
+}
+p {
+    height: auto;
+    width: 300px;
+    margin:0 auto;
+    border: 8px solid black;
+    text-align:left;
+    padding:1px;
+    box-sizing: border-box;
+    background-color:grey;
+    font-color:lightblue;
+
+
+}
+.listed-items
+{
+    height: auto;
+    width: 300px;
+    margin:0 auto;
+    border: 8px solid black;
+    text-align:left;
+    padding:1px;
+    background-color:grey;
+    box-sizing: border-box;
+
 }
